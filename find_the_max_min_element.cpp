@@ -1,5 +1,5 @@
 /*
-Reverse the Array
+find the max and min element from the array
 */
 
 #include<bits/stdc++.h>
